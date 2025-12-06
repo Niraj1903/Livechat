@@ -1,9 +1,12 @@
 import "./App.css";
+import LiveChat from "./components/LiveChat";
 
 function App() {
   return (
     <>
-      <div></div>
+      <div>
+        <LiveChat />
+      </div>
     </>
   );
 }
