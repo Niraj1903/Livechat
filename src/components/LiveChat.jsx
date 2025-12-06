@@ -44,7 +44,7 @@ const LiveChat = () => {
         <div
           className="
             flex flex-col-reverse 
-            min-h-60 max-h-96
+            min-h-96 max-h-96
             border border-gray-300 
             rounded-xl 
             p-3 
