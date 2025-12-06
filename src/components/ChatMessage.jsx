@@ -9,7 +9,7 @@ const ChatMessage = ({ name, message }) => {
       {/* Name + message */}
       <div className="flex flex-col">
         <span className="font-semibold text-xs text-gray-800">{name}</span>
-        <span className="text-sm text-gray-900 break-words">{message}</span>
+        <span className="text-sm text-gray-900">{message}</span>
       </div>
     </div>
   );
