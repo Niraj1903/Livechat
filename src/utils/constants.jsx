@@ -1,1 +1,1 @@
-export const OFFSET_LIVECHAT = 5;
+export const OFFSET_LIVECHAT = 100;
