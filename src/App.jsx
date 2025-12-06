@@ -1,7 +1,8 @@
 import { Provider } from "react-redux";
 import "./App.css";
-import LiveChat from "./components/LiveChat";
+
 import store from "./utils/store";
+import LiveChat from "./components/LIveChat";
 
 function App() {
   return (
